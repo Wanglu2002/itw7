@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+.LI{
+    display: inline-block;
+}
+.list2{
+	display: none;
+}
+.LI:hover .list2{
+  display: block;
+}
+
+.list2{
+	width: 150px;
+	height: 20px;
+	font-size: 70%;
+	
+}
+.list2 li:hover{
+	background-color:hsla(199,100%,48%,0.65);
+}
+
+
+
+
+

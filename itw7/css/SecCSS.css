@@ -1,0 +1,151 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image: linear-gradient(hsla(359,100%,35%,1.00), hsla(76,100%,25%,1.00),hsla(289,85%,80%,1.00));
+	background-color:hsla(76,100%,25%,1.00)
+}
+#nav{
+	margin-left: 5%;
+	margin-right: 5%;
+	height: 100px;
+	background-color:hsla(219,38%,48%,0.69);
+    box-shadow: 10px 10px 5px #888888;
+	margin-bottom: 15px;
+}
+#navImg{
+	width:200px;
+	height:90px;
+	float: left;
+}
+#navCata{
+	margin-left: 10%;
+	float: left;
+}
+#nav li{
+	float:left;
+    width:90px;
+	list-style-type: none;
+	margin: 0 1.5%;
+	font-family:幼圆;
+	font-size: 180%;
+	font-weight: bolder;
+	text-align: center;
+}
+.navCata-li{
+	float: left;
+    width:30%;
+	height:57px;
+	margin: 0 1.5%;
+}
+
+#C1{
+	margin-left: 5%;
+	margin-right: 5%;
+	height: 400px;
+	margin-top:3px;
+	margin-bottom: 3px; 
+	border-style:groove;
+	border-color:hsla(200,100%,75%,0.84);
+	border-width: 22px;
+	background-color: hsla(57,76%,90%,0.19);
+}
+
+
+#C1-21,#C1-22,#C1-23{
+	float:left;
+	width: 400px;
+	height: 20px;
+}
+#C1-22{
+	margin-left: 280px;
+}
+#C1-23{
+	margin-left: 300px;
+}
+#toutiao{
+	float: left;
+    width:360px;
+	height:270px;
+}
+#redian{
+	border-style:groove;
+	border-width: 30px;
+	border-color: hsla(169,100%,49%,1.00);
+	float: left;
+	font-family: 华文新魏;
+	font-size: 140%;
+}
+#zhibo{
+	float: left;
+	margin-left: 30px;
+}
+#C2{
+	margin-left: 5%;
+	margin-right: 5%;
+	border-style:dotted;
+	border-width: 20px;
+	border-radius:300px;
+	border-color: hsla(169,100%,49%,1.00);
+}
+a:link{color: #000000}
+a:visited{color: #000000}
+a:active{color: #FFFFFF}
+a{text-decoration:none}
+
+.C2222{
+	float: left;
+	width: 142px;
+	height: 200px;
+	transition:width 1s, height 2s;
+}
+.C2222:hover{
+	width: 180px;
+	height: 210px;
+}
+#C2-2{
+	width: 300px;
+	height: 600px;
+	background-color:hsla(200,100%,71%,0.56);
+	float: right;
+}
+
+.wenzi{
+	position:absolute;
+	z-index: 5;
+	width: 300px;
+	height: 50px;
+	margin-top: 10px;
+
+}
+.wenzi:hover{
+	color:hsla(213,39%,43%,1.00);
+	background-color: antiquewhite;
+}
+.yanse{
+	z-index: 10;
+	width: 8px;
+	height: 50px;
+	margin-top: 10px;
+	background-color:bisque;
+}
+#firstvid{
+	float: left;
+	width: 420px;
+	height: 260;
+}
+
+#kazubiao{
+	float: right;
+	
+}
+#lunbo{
+	width: 750px;
+	height: 145px;
+	
+}
+
+
+
+
+
+
